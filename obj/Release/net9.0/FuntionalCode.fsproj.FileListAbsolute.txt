@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\concept\FuntionalCode\obj\Release\net9.0\FuntionalCode.fsproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\concept\FuntionalCode\obj\Release\net9.0\FuntionalCode.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\concept\FuntionalCode\obj\Release\net9.0\FuntionalCode.AssemblyInfo.fs
+C:\Users\DELL\Desktop\concept\FuntionalCode\obj\Release\net9.0\FuntionalCode.fsproj.CoreCompileInputs.cache
